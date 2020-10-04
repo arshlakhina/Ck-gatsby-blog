@@ -32,7 +32,7 @@
 + Mobile-Support
 + [Contentful CMS](http://contentful.com) support
 
-**Request** to users, contributors and visitors. Please :star: star the repo to increase its reach.
+**Request** to users, contributors and visitors. Please :star: "Star" the repo to increase its reach.
 It will help us to reach more users and contributors. So, they can support this beautiful project.
 
 
@@ -78,10 +78,10 @@ You can use any other CMS or create MDX files in this app.
 
 Note: You need to modify config for other CMS or MDX else set-up contentful CMS to use this project.
 
-- Create an account on contentful.com
-- Navigate to the content model; click on add content type.
-- Name it anything, for ex: blog.
-- Click on Add field, create fields one by one.
+- Create an account on contentful.com.
+- Navigate to the content model and then click on add content type.
+- Name it anything ,for ex: blog.
+- Click on Add field and create fields one by one.
 
 There are seven types of fields required.
 
@@ -118,10 +118,10 @@ CONTENTFUL_SPACE_ID=zorf8a5obm1d
 CONTENTFUL_ACCESS_TOKEN=v4WRlGF6fTfBUrP54Hbaiava6VjPgKbW8mFEOgzEiPY
 ```
 
-Note: contributors can use these credentials and skip to set-up their own contentful CMS.
+Note: Contributors can use these credentials and skip to set-up their own contentful CMS.
 
 ### Publishing article with contentful
-- Navigate to content on contentful.com
+- Navigate to content on contentful.com.
 - Click on Add Blog Post button to create a post.
 - Write your article and fill all the required fields.
 - Publish your blog and deploy or re-deploy your own copy of this repo.
@@ -135,7 +135,7 @@ Click the button below to build and deploy your own copy of the repository:
 
 # Contributing
 
-Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. :tada:
+Your contributions are always welcome!! .Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. :tada:
 
 ## Folder Structure
 
